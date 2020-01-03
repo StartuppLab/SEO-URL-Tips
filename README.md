@@ -1,6 +1,5 @@
 # SEO-URL-Tips
 
-Updated 2 minutes ago
 Here is some list of URL rules which we use for most of our application to make their URLs more SEO friendly. Let's have a look at them.
 
 The first mistake which is very common is a page has a few URL addresses. For example: the main page of you site is available by next addresses: www.startupplab.com, startupplab.com, www.startupplab.com/, www.StartuppLab.com, www.startupplab.com/home, www.startupplab.com/home/index and etc. SEO engines think that these pages are the different pages, because of their addresses but they have the same content which means that your content is not unique.
